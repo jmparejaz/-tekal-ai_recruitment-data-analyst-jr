@@ -8,8 +8,8 @@ We are currently developing tools based on AI models to assess the cognitive imp
 Once you have cloned this repository, close it and create a new one from your own Github user. This will ensure that your deliverable will not be visible to other candidates. Failing to close the repository and/or overwriting any content in the `master` branch of this repository will result in immediate disqualification.
 
 Once the task is completed, please ensure to add the following users as collaborators:
-    - [JHevia23](https://github.com/JHevia23)
-    - [ppfreitas](https://github.com/ppfreitas)
+- [JHevia23](https://github.com/JHevia23)
+- [ppfreitas](https://github.com/ppfreitas)
     
  and notify by email to your recruiting contact.
 
