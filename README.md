@@ -17,16 +17,20 @@ Once the task is completed, please ensure to add the following users as collabor
 We need to analyze all the data we have from our client's assets to extract meaningful conclusions. We are looking for an awesome Data Analyst capable of implementing analytics solutions, such as data analysis and visualization tools to understand our client's data, extract it from SQL tables and leverage it to generate marketing insights. 
 
 ### The Task
-Using the resources attached to the email, we want to test your ability to analyze a specific data set and answer the following items: 
+Using the resources attached to the email, we want to test your ability to analyze a specific data set and extract useful insights.
+
+Firstly, you will be required to answer a set of questions to aim at the minimum passing grade at this test. These questions are: 
 - Average Social Media score (smScore) by the publishing year? 
 - What are the most present colors in assets by publishing year? 
 - What are the most present colors in assets by asset type?
+
+Once you have answered those, it is time to display your creativity and curiosity to find and communicate any useful additional insights. Consider this second part as a deliverable you will be presenting to a client, in which you have to leverage the data you have been presented with to add value to the analysis. For this reason, in this second section, you will not receive a guiding set of questions, rather we expect you to come forward with ideas.
 
 ### Requirements 
 You are allowed to work either with a `.csv` or with a single local database.  
 
 ### Resources
-To successfully accomplish this task, you'll need to use the following files under the `data/` durectory. You find a SQLite database (`mock_db.db`) with all the tables loaded. Alternatively you can use the .csv in case you are better used to it.
+To successfully accomplish this task, you'll need to use the following files under the `data/` directory. You find a SQLite database (`mock_db.db`) with all the tables loaded. Alternatively you can use the .csv in case you are better used to it.
 - asset.csv 
 - asset_type.csv
 - asset_color.csv
