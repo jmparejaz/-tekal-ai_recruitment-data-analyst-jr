@@ -50,11 +50,15 @@ There is a Requirement.txt file with all the Libraries to execute all cells on t
 
 ```html
     pip install -r requirements.txt
+
 ```
+
+[Jupyter Notebook](Tekal.ipynb)
+
 
 ## References
 
-[Documento del Challenge](README_Questions.md)
+[Document of the Challenge](README_Questions.md)
 
 [Back To The Top](#read-me-template)
 
