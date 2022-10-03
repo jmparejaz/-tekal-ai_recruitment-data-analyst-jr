@@ -68,7 +68,7 @@ There is a Requirement.txt file with all the Libraries to execute all cells on t
 
 ## Author Information
 
-I am a Mining Engineer with a Masters Engineering Degree focused on programming skills to develop new techniques of Mine Planning Optimization, Mathematical Modeling, Operational Research, Metaheuristics, Geostatistics and Machine Learning. During eight years of experience on the Mining Industry I have been able to develop and enforce soft skills like Team-work, Communication, Problem-solving, Time management, Decision Making and others that have help me with interdisciplinary Projects of high value assets. However, I am currently looking for new path carrer on IT industry as a Data Analyst / Data Scientist and this is an opportunity to show the industry my habilities.
+I am a Mining Engineer with a Masters Engineering Degree focused on programming skills to develop new techniques of Mine Planning Optimization, Mathematical Modeling, Operational Research, Metaheuristics, Geostatistics and Machine Learning. During eight years of experience on the Mining Industry I have been able to develop and enforce soft skills like Team-work, Communication, Problem-solving, Time management, Decision Making and others that have help me with interdisciplinary Projects of high value assets. However, I am currently looking for new path career on IT industry as a Data Analyst / Data Scientist and this is an opportunity to show the industry my habilities.
 
 - LinkedIn - [@jmparejaz](https://www.linkedin.com/in/jmparejaz/)
 
