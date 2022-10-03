@@ -53,7 +53,9 @@ There is a Requirement.txt file with all the Libraries to execute all cells on t
 
 ```
 
-[Jupyter Notebook](Tekal.ipynb)
+[Jupyter Notebook First Section](Tekal.ipynb)
+
+[Jupyter Notebook Second Section](DeepAnalysis.ipynb)
 
 
 ## References
