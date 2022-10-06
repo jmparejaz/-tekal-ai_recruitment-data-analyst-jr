@@ -1,4 +1,10 @@
+pandas
+numpy
+seaborn
+matplotlib
+statsmodels
+sklearn
 scipy
 sqlalchemy
-ipython-sql 
-pgspecial
+sqlite3
+
