@@ -57,12 +57,15 @@ There is a Requirement.txt file with all the Libraries to execute all cells on t
 
 [Jupyter Notebook Second Section](DeepAnalysis.ipynb)
 
+[Jupyter Notebook Second Section with TensorFlow](Linear_Regression_TF.ipynb)
+
 
 ## References
 
 [Document of the Challenge](README_Questions.md)
 
 [Back To The Top](#read-me-template)
+
 
 ---
 
